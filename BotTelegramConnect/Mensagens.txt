@@ -1,0 +1,5 @@
+﻿:white_check_mark: <b>Esta é a primeira mensagem.</b>
+<i>Esta é a segunda mensagem.</i> :white_check_mark:
+:white_check_mark: Esta é a terceira mensagem.
+Esta é a quarta mensagem. :white_check_mark:
+:white_check_mark: Esta é a quinta mensagem.
